@@ -1,0 +1,14 @@
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\bin\Debug\TcKimlikUygulama.exe.config
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\bin\Debug\TcKimlikUygulama.exe.manifest
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\bin\Debug\TcKimlikUygulama.application
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\bin\Debug\TcKimlikUygulama.exe
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\bin\Debug\TcKimlikUygulama.pdb
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\obj\x86\Debug\TcKimlikUygulama.csproj.AssemblyReference.cache
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\obj\x86\Debug\TcKimlikUygulama.csproj.GenerateResource.cache
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\obj\x86\Debug\TcKimlikUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\obj\x86\Debug\TcKimlikUygulama.exe.manifest
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\obj\x86\Debug\TcKimlikUygulama.application
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\obj\x86\Debug\TcKimlikUygulama.exe
+C:\Users\Asim\source\repos\TcKimlikUygulama\TcKimlikUygulama\obj\x86\Debug\TcKimlikUygulama.pdb
